@@ -30,4 +30,4 @@ In order to run this project, you'll need the following variables in your enviro
 (Make sure you correctly download ffmpeg executables according to your OS, and not the source-code)
 
 
-all credits to jschumann47! this was made fully for educational purposes and couldn't have been done without him!# all credits to jschumann47! this was made fully for educational purposes and couldn't have been done without him!
+all credits to jschumann47! this was made fully for educational purposes and couldn't have been done without him!
