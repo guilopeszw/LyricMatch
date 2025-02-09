@@ -4,7 +4,7 @@ import assemblyai as aai
 from youtubeToWav.youtubetowav import download_from_url
 
 # insert here your AssemblyAI API Key
-aai.settings.api_key = "60d926e3030342abb2c1d08976231ec8"
+aai.settings.api_key = ""
 transcriber = aai.Transcriber()
 
 print("")
