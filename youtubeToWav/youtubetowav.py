@@ -31,5 +31,5 @@ with yt_dlp.YoutubeDL(ydl_opts) as ydl:
     else:
         download_from_url(args[0])
 
-
+# all credits to jschumann47! this was made fully for educational purposes and couldn't have been done without him!
 
