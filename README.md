@@ -18,7 +18,7 @@ The idea is that the user will input an YouTube link and get a .wav file from it
 - AssemblyAI: https://www.assemblyai.com/app
 
 (I'd recommend you to first read jschuhmann47's GitHub post, it'll help you configure the project and make sure you download everything correctly).
-## Variáveis de Ambiente
+## Environment Variables
 
 In order to run this project, you'll need the following variables in your environment .env:
 
