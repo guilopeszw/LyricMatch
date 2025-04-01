@@ -1,6 +1,6 @@
 *About*
 
-=AI transcriber to get lyrics from any song (works better in english songs) using AssemblyAI's free API, that requires the user to input an .mp3 or .wav file. To make things easier, using yt-dlp, you only have to input a youtube link to the song of your choice and the library will download it into an mp3 file, which will be automatically transcribed and saved in a .txt (bonus: all files are saved locally, which means they're accessable at any moment after using LyricMatch)
+AI transcriber to get lyrics from any song (works better in english songs) using AssemblyAI's free API, that requires the user to input an .mp3 or .wav file. To make things easier, using yt-dlp, you only have to input a youtube link to the song of your choice and the library will download it into an mp3 file, which will be automatically transcribed and saved in a .txt (bonus: all files are saved locally, which means they're accessable at any moment after using LyricMatch)
 
 
 
